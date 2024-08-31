@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ShahzaD\\Unity Projects\\Clicky Mouse\\",
+  "WorkspaceRootPath": "C:\\Users\\ShahzaD\\Documents\\GitHub\\Clicky-Mouse\\Clicky Mouse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1740AF3-9FAD-9C9E-F63A-67C8FB2E81FF}|Assembly-CSharp.csproj|C:\\Users\\ShahzaD\\Unity Projects\\Clicky Mouse\\assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1740AF3-9FAD-9C9E-F63A-67C8FB2E81FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1740AF3-9FAD-9C9E-F63A-67C8FB2E81FF}|Assembly-CSharp.csproj|c:\\users\\shahzad\\documents\\github\\clicky-mouse\\clicky mouse\\assets\\scripts\\difficultybuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1740AF3-9FAD-9C9E-F63A-67C8FB2E81FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\difficultybuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1740AF3-9FAD-9C9E-F63A-67C8FB2E81FF}|Assembly-CSharp.csproj|c:\\users\\shahzad\\unity projects\\clicky mouse\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1740AF3-9FAD-9C9E-F63A-67C8FB2E81FF}|Assembly-CSharp.csproj|c:\\users\\shahzad\\documents\\github\\clicky-mouse\\clicky mouse\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1740AF3-9FAD-9C9E-F63A-67C8FB2E81FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1740AF3-9FAD-9C9E-F63A-67C8FB2E81FF}|Assembly-CSharp.csproj|C:\\Users\\ShahzaD\\Documents\\GitHub\\Clicky-Mouse\\Clicky Mouse\\assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1740AF3-9FAD-9C9E-F63A-67C8FB2E81FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DifficultyButtons.cs",
+              "DocumentMoniker": "C:\\Users\\ShahzaD\\Documents\\GitHub\\Clicky-Mouse\\Clicky Mouse\\Assets\\Scripts\\DifficultyButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DifficultyButtons.cs",
+              "ToolTip": "C:\\Users\\ShahzaD\\Documents\\GitHub\\Clicky-Mouse\\Clicky Mouse\\Assets\\Scripts\\DifficultyButtons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DifficultyButtons.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:21:50.415Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\ShahzaD\\Unity Projects\\Clicky Mouse\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\ShahzaD\\Documents\\GitHub\\Clicky-Mouse\\Clicky Mouse\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\ShahzaD\\Unity Projects\\Clicky Mouse\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\ShahzaD\\Documents\\GitHub\\Clicky-Mouse\\Clicky Mouse\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAQAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwDsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T12:46:26.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Target.cs",
-              "DocumentMoniker": "C:\\Users\\ShahzaD\\Unity Projects\\Clicky Mouse\\Assets\\Scripts\\Target.cs",
+              "DocumentMoniker": "C:\\Users\\ShahzaD\\Documents\\GitHub\\Clicky-Mouse\\Clicky Mouse\\Assets\\Scripts\\Target.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Target.cs",
-              "ToolTip": "C:\\Users\\ShahzaD\\Unity Projects\\Clicky Mouse\\Assets\\Scripts\\Target.cs",
+              "ToolTip": "C:\\Users\\ShahzaD\\Documents\\GitHub\\Clicky-Mouse\\Clicky Mouse\\Assets\\Scripts\\Target.cs",
               "RelativeToolTip": "Assets\\Scripts\\Target.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAowBoAAAAFAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwB8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T12:45:03.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T12:45:03.043Z"
             }
           ]
         }
